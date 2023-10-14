@@ -4,4 +4,5 @@ user3 john Mca USA 100000/-
 user4 radhav P.hd 120000/-
 user5 madhav LLB 23000/-
 user6 babita BA 325000/-
-user7 lala barfa 90000/-
+user7 lala barfa 90000/
+user8 manish mba 45000/--
