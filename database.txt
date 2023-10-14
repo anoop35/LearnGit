@@ -1,2 +1,3 @@
 user1 anoop mca karchhana 25000/
-user2 marria bca japan 35000/--
+user2 marria bca japan 35000/-
+user3 john Mca USA 100000/--
