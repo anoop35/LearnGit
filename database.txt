@@ -1,3 +1,6 @@
-user1 anoop mca karchhana 25000/
+user1 anoop mca karchhana 25000/-
 user2 marria bca japan 35000/-
-user3 john Mca USA 100000/--
+user3 john Mca USA 100000/-
+user4 radhav P.hd 120000/-
+user5 madhav LLB 23000/-
+
